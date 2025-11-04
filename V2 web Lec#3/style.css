@@ -1,0 +1,19 @@
+#myheading{
+    background-color: rgb(10, 63, 63);
+}
+.two{
+    
+}
+.three{
+
+}
+.four{
+
+}
+.five{
+
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse ;
+}
